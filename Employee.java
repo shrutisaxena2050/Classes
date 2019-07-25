@@ -16,7 +16,7 @@ class Employeedept{
 
 		emp[0].name = "Suyash";                   //Assigning values
 		emp[1].name = "Ayush";
-        emp[2].name = "Surya";   
+                emp[2].name = "Surya";   
 
 		emp[0].emp_id = 1001;
 		emp[1].emp_id = 1002;
@@ -40,7 +40,7 @@ class Employeedept{
 
 			System.out.println( " "+ emp[i].name + " and " + emp[j].name + " works in the same department.");
 			}
-		  }
-	    }
-	}
+		   }
+	       }
+   }
 }
